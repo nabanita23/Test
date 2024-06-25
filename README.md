@@ -1,3 +1,6 @@
 ### Collaboration with Other Lines of Business (LOBs)
 
 An area for improvement is enhancing collaboration with other Lines of Business (LOBs) within the organization. By fostering stronger cross-functional partnerships, we can ensure that our UI development efforts are more closely aligned with the broader business objectives and requirements. This involves regular communication and joint planning sessions with teams such as marketing, sales, customer support, and product management. Through these collaborative efforts, we can gain valuable insights into customer needs, market trends, and operational challenges, which can be translated into more effective and user-centric UI solutions. Improved collaboration will not only enhance the overall coherence and effectiveness of our products but also drive innovation and agility across the organization.
+
+
+Nabanita has shown a dedicated commitment to her professional growth, actively pursuing training programs to expand her skills and knowledge. Her eagerness to shoulder additional responsibilities reflects readiness for more demanding roles. Positive feedback from supervisors and peers underscores her strong communication skills, initiative, and recognition within the team, highlighting her capability to excel in elevated positions.
